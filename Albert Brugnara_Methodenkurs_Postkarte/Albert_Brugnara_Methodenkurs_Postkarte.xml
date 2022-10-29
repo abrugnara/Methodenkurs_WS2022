@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<postkarten>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <title type="first">Annotation zweier Postkarten</title>
+                <author> Lehrende aus </author>
+                <respStmt>
+                    <resp>Text input:</resp>
+                    <name>Albert Brugnara</name>
+                </respStmt>
+                <respStmt>
+                    <!-- Editing of the digital text (encoding, markup) -->
+                    <resp>TEI Encoding and Markup:</resp>
+                    <name>2022W 070266-1 Methodenkurs - Digitale Annotation im
+                        geschichtswissenschaftlichen Kontext </name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Pstkarte</edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>unbekannt</publisher>
+                <date>unbekannt</date>
+                <pubPlace>unbekannt</pubPlace>
+                <availability>
+                    <p>Die Urheberrechts-Schutzdauer des hier abgebildeten flächigen Kunstwerks ist
+                        weltweit abgelaufen, da der Künstler bereits seit über 70 Jahren tot ist. Es
+                        ist somit gemeinfrei ('public domain'). Ebenfalls gemeinfrei ist die
+                        vorliegende Reproduktion des Werkes, da sie keine eigene Schöpfungshöhe
+                        aufweist</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Exemplar einer Postkarte</p>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <text>
+        <body>
+            <postkarte1>
+                <header><!-- für spätere Ergänzungen --></header>
+                <vorderseite><pb facs="../images/Postkarte1 Bild1.png"/>Bild der Postkarte mit
+                    Handvermerk und Geoinformationen als Rechteck mit blauer Linie </vorderseite>
+                <pb/>
+                <rückseite>
+                    <pb facs="../images/Postkarte1 Bild2.png"/>
+                    <p>54.)<lb/>
+                        <anrede>Liebe <vorname>Hannerl!</vorname></anrede>
+                        <date>22. 10. 1941</date><lb/> Gestern und heute habe ich von dir Meine
+                        liebe<lb/>Post bekommen. Ich weiß zwar bestimmt, daß Du inzwischen
+                        geschrieben hast, aber gestern, wie heute <lb/>ist überhaupt wenig
+                        vorgekommen, dafür hoffe<lb/>ich für morgen von Dir und von der
+                        Kompanie<lb/>Deine liebe Post. Gestern haben wir und den Film
+                                <q><titel>Operette</titel></q>angesehen. Obwohl er mir nicht
+                        unbekant<lb/> ist, hat er mir wieder außergewöhnlich gut gefallen.<lb/> Bis
+                        ich wieder etwas Neues weiß, <salutation> küsst Dich und<lb/><name>
+                                Purzel</name> vielmals Euer<lb/>
+                            <name>Toni</name></salutation>.</p>
+                </rückseite>
+            </postkarte1>
+            <postkarte2>
+                <header><!-- für spätere Ergänzungen --></header>
+                <vorderseite><pb facs="../images/Postkarte 2 Bild1.png"/> Bild der Postkarte mit
+                    Handvermerk und Geoinformationen als Oval mit blauer Linie</vorderseite>
+                <rückseite><pb
+                    facs="../images/Postkarte2 Bild2.png"
+                />85.) <ansprache>Liebe Hannal!</ansprache><date>16. Juli
+                        42.</date><lb/><p>Heute habe ich kein liebes schrei-<lb/> ben von Dir
+                        bekommen. Es ist ja <lb/> erst Nachmittag , es kann also noch<lb/>immer
+                        etwas kommen. Von den<lb/>habe ich immer noch keinen Be<lb/>scheid.
+                        Wahrscheinlich in Ordnung,<lb/>sonst hätte die behandlung<lb/>schon
+                        begonnen. Ab heute bekom<lob/>me ich Moorpackungen am<lb/>rechten Arm. Der
+                        Arm wird in<lb/>einer möglichst heißen kohlra<lb/>benschwarzen, lehmigen
+                        Masse<lb/>eingepackt, sodann der ganze<lb/>Körper mit einer decke
+                        eingeschla<lb/>gen und eine hable Stunde duns<lb/>ten. Das Rheuma muß
+                        einfach<lb/> weg, ob noch eines ist oder nicht.<lb/><salutation>Nun
+                            einstweilen Euch beiden<lb/>viele viele Bussi von eurem
+                                <name>Toni.</name></salutation></p>
+                </rückseite>
+            </postkarte2> > </body>
+    </text>
+</postkarten>
